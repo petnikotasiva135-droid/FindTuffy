@@ -157,7 +157,6 @@ git clone https://github.com/kRamu81/FindTuffy.git
 ```
 Then start contributing or using the project your way.
 
-
 ---
 
 📫 Contact information 
