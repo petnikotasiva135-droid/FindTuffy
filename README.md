@@ -109,6 +109,40 @@ FindTuffy/
 └── LICENSE
 ```
 ---
+🚧 Current Status
+🔨 Project planning
+🎨 UI design in progress
+📝 Backend architecture preparation
+🕸️ Scraper scripts will be added soon
+---
+
+🤝 Contributing
+We welcome all contributions to improve FindTuffy.
+
+💡 How to Contribute
+1. Fork this repository
+2. Create a new branch (e.g., feature-new-ui)
+3. Make your changes
+4. Commit and push
+5. Create a Pull Request
+6. Wait for review & merge 🎉
+
+---
+
+🍴 Fork This Repository
+
+If you want to customize or improve this project, simply fork it:
+
+👉 Click here to fork: Fork > Create a new fork
+Then start contributing or using the project your way.
+
+
+---
+
+📫 Contact
+
+Project: FindTuffy
+Goal: Helping students find internships easily
 
 If you want, I can also add:
 
