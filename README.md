@@ -79,6 +79,7 @@ Interview experiences, reviews, and doubts posted by students.
 ---
 
 ## 📦 Project Structure (Example)
+/* 
 FindTuffy/
 │── frontend/
 │   ├── public/
@@ -96,6 +97,7 @@ FindTuffy/
 │
 │── README.md
 │── LICENSE
+*/
 ---
 
 ## 🚧 Current Status
